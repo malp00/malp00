@@ -10,10 +10,19 @@
 
 <div>
 
-### <img src="assets/mr-miami.png" width="30"> Mr Miami
+### <img src="assets/mr-miami.png" width="30"> Mr. Miami
 **Your Personal Travel Concierge & Life Guide** `In Development`
 
 AI-powered travel companion for discovering the best of Miami.
+
+**Tech:** SwiftUI, iOS, AI Integration
+
+---
+
+### <img src="assets/newhome-ai.png" width="30"> NewHome AI
+**AI-Powered Interior Design & Home Remodel App** `In Development`
+
+Turns any room photo into AI-generated redesigns across multiple styles, with an AI design assistant and end-to-end subscription paywall.
 
 **Tech:** SwiftUI, iOS, AI Integration
 
