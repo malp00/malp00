@@ -26,6 +26,8 @@ Turns any room photo into AI-generated redesigns across multiple styles, with an
 
 **Tech:** SwiftUI, iOS, AI Integration
 
+**[Download on the App Store →](https://apps.apple.com/us/app/newhome-ai/id6773768526)**
+
 ---
 
 ### <img src="assets/richmind.png" width="30"> RichMind AI
