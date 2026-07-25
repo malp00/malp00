@@ -20,7 +20,7 @@ AI-powered travel companion for discovering the best of Miami.
 ---
 
 ### <img src="assets/newhome-ai.png" width="30"> NewHome AI
-**AI-Powered Interior Design & Home Remodel App** `In Development`
+**AI-Powered Interior Design & Home Remodel App** `Live 2026`
 
 Turns any room photo into AI-generated redesigns across multiple styles, with an AI design assistant and end-to-end subscription paywall.
 
