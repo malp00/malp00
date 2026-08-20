@@ -37,6 +37,8 @@ Personal development app with AI mentorship and habit tracking.
 
 **Tech:** SwiftUI, iOS 17+, Firebase, OpenAI
 
+**[Download on the App Store →](https://apps.apple.com/us/app/richmind/id6753914796)**
+
 ---
 
 ### <img src="assets/lucky-ai.png" width="30"> Lucky AI
