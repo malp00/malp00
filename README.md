@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm M.Alp</h1>
+  <h1>I'm Alp</h1>
   <h3>Software Engineer</h3>
   <p>Mobile engineer focused on AI-powered products and real-world solutions.<br>I specialize in native iOS & Android development, from concept to App Store.</p>
 </div>
