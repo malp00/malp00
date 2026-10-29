@@ -10,6 +10,15 @@
 
 <div>
 
+### <img src="assets/mr-miami.png" width="30"> Mr. Miami
+**Your Personal Travel Concierge & Life Guide** `In Development`
+
+AI-powered travel companion for discovering the best of Miami.
+
+**Tech:** SwiftUI, iOS, AI Integration
+
+---
+
 ### <img src="assets/ambrosia-natural.png" width="30"> Ambrosia Natural
 **E-commerce App for a Turkish Delights & Natural Food Store** `Live 2026`
 
@@ -18,15 +27,6 @@ Cross-platform shopping app fully integrated with the store's WooCommerce backen
 **Tech:** Flutter (iOS & Android), WooCommerce REST API, Payment Gateway Integration, OneSignal
 
 **[Download on the App Store →](https://apps.apple.com/us/app/ambrosia-natural/id6819808670)**
-
----
-
-### <img src="assets/mr-miami.png" width="30"> Mr. Miami
-**Your Personal Travel Concierge & Life Guide** `In Development`
-
-AI-powered travel companion for discovering the best of Miami.
-
-**Tech:** SwiftUI, iOS, AI Integration
 
 ---
 
