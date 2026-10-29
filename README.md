@@ -10,6 +10,17 @@
 
 <div>
 
+### <img src="assets/ambrosia-natural.png" width="30"> Ambrosia Natural
+**E-commerce App for a Turkish Delights & Natural Food Store** `Live 2026`
+
+Cross-platform shopping app fully integrated with the store's WooCommerce backend: catalog, cart, checkout with card payments, order tracking, push notifications and live support. Shipped together with a browser-based in-store POS/CRM.
+
+**Tech:** Flutter (iOS & Android), WooCommerce REST API, Payment Gateway Integration, OneSignal
+
+**[Download on the App Store →](https://apps.apple.com/us/app/ambrosia-natural/id6819808670)**
+
+---
+
 ### <img src="assets/mr-miami.png" width="30"> Mr. Miami
 **Your Personal Travel Concierge & Life Guide** `In Development`
 
@@ -111,6 +122,7 @@ Event management application for Istanbul Youth Festival.
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=for-the-badge&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
