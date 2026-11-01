@@ -61,15 +61,6 @@ Personalized horoscope and birth chart analysis powered by AI.
 
 ---
 
-### <img src="assets/nezaket-abla.png" width="30"> Nezaket Abla
-**AI-Powered Turkish Coffee Fortune Telling** `MVP Ready 2025`
-
-Traditional Turkish coffee fortune telling with AI interpretation.
-
-**Tech:** SwiftUI, iOS, CoreML/Vision
-
----
-
 ### <img src="assets/misu-ai.png" width="30"> UMI AI
 **Your Personal AI Companion** `MVP Ready 2025`
 
