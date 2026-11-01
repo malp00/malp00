@@ -52,7 +52,7 @@ Personal development app with AI mentorship and habit tracking.
 
 ---
 
-### <img src="assets/lucky-ai.png" width="30"> ORAA
+### <img src="assets/oraa.png" width="30"> ORAA
 **Daily Horoscope, Birth Chart & Zodiac Compatibility** `Live 2025`
 
 Astrology app with daily horoscopes, detailed birth charts, zodiac compatibility, daily affirmations, moon phase forecasts and goal tracking.
