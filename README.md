@@ -70,7 +70,7 @@ Traditional Turkish coffee fortune telling with AI interpretation.
 
 ---
 
-### <img src="assets/misu-ai.png" width="30"> X AI
+### <img src="assets/misu-ai.png" width="30"> UMI AI
 **Your Personal AI Companion** `MVP Ready 2025`
 
 AI companion with professional chef recipes and culinary guidance.
