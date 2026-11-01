@@ -52,12 +52,14 @@ Personal development app with AI mentorship and habit tracking.
 
 ---
 
-### <img src="assets/lucky-ai.png" width="30"> Lucky AI
-**AI-Powered Astrology & Birth Chart** `Sold 2025`
+### <img src="assets/lucky-ai.png" width="30"> ORAA
+**Daily Horoscope, Birth Chart & Zodiac Compatibility** `Live 2025`
 
-Personalized horoscope and birth chart analysis powered by AI.
+Astrology app with daily horoscopes, detailed birth charts, zodiac compatibility, daily affirmations, moon phase forecasts and goal tracking.
 
 **Tech:** SwiftUI, iOS, OpenAI API
+
+**[Download on the App Store →](https://apps.apple.com/us/app/daily-horoscope-zodiac-signs/id6753818159)**
 
 ---
 
